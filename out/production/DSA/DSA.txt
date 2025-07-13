@@ -1,0 +1,68 @@
+Big - O -> worst case
+n -> input size
+
+logarithmic are sublinear
+log2(8) = 3 // how many times does it take divide 8 by 2
+
+quasilinear (nlogn)
+
+quadratic time -> (n^2)
+
+O(n+c) = O(n)
+O(nc)=O(n) c>0
+
+multiply loop on different levels
+add on the same level
+for Big O
+
+Binary tree : height (h) -> number of edges "\   /"  between root node and deepest level node
+		number of leaf nodes = 2^h
+		number of nodes = 2^(h+1)-1
+		search complexity = O(log n)
+		preorder :  root -> left -> right
+		inorder : left -> root ->  right
+		postorder: left -> right-> root
+		level order : breadth left -> right
+
+insertion sort : best O(n)
+			average O(n^2)
+			best O(n^2)
+			space  O(1)
+
+
+Complete Binary tree : filling every level from left to right except the last levels
+
+(1, 4, 6, 3, 9, 12, 7)
+
+                            1 
+                         /    \
+                       4       6
+                     /  \     /  \
+                   3     9  12    7
+
+left child node - 2i+1
+right child node - 2i+2
+parent - int((i-1)/2)
+
+
+
+Heap ds : made up of complete binary tree
+
+child is always smaller than parent (root is the largest node) - max heap property
+child is always greater than parent - min heap property
+
+
+Heapsort -> create max heap and remove the root and add it at the last index of the array
+            run a buildheap first then start swapping first element with the reducing i. And the run heapify again on the swapped arr[0]
+            this will throw the greatest elements from n-1 -> 0
+time complexity - > O(nlogn)
+
+
+Mergesort -> atomise the array the merge after comparing least element (p , q(midpoint), r) [two functions mergeSort(arr, p , r) and merge(arr, p, q ,r)]
+merge will atomise the array recursively -> m(arr,p,q) and m(arr,q+1,r)....
+time complexity -> O(nlogn)
+
+
+Quicksort -> create a pivot (last element). Compare the pivot from the beginning of the array. if element > pivot then remember the index of the greater value;
+                    keep going from left to right. if element <= pivot, swap it with the previous larger value index
+                    time complexity -> O(nlogn)
