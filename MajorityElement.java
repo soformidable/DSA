@@ -67,8 +67,8 @@ public class MajorityElement {
         return lst;
     }
     public static void main(String args[]){
-        //System.out.println(majorityMoore(new int[]{2,2,1,1,1,2,2}));
-        //System.out.println(majorityElement(new int[]{1,1,1,2,2,3,2,3}));
+        System.out.println(majorityMoore(new int[]{2,2,1,1,1,2,2}));
+        System.out.println(majorityElement(new int[]{1,1,1,2,2,3,2,3}));
         System.out.println(majorityElementN3(new int[]{1,2}));
     }
 
