@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "8a5c9a4fcdf2f6f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fea2227be448da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6769b75bef088eda",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f20205d5ecd36a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0409bcbde4a30b64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "505be8d19eaa4809",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0938fb34f631eb81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b96caeff861abe3e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 443.5
+  },
+  "right": {
+    "id": "176bd6f93bfca2c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7132c5e4abd08d92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d179caad81448a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Medium_SDE/Pascal Triangle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pascal Triangle"
+            }
+          },
+          {
+            "id": "af874a2494320aeb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Medium_SDE/Pascal Triangle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pascal Triangle"
+            }
+          },
+          {
+            "id": "e52508482d7fa87b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7bb173dbe2042399",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Medium_SDE/Pascal Triangle.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pascal Triangle"
+            }
+          },
+          {
+            "id": "83c3cbb0538a97a9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "83c3cbb0538a97a9",
+  "lastOpenFiles": [
+    "2025-07-20.md",
+    "Medium_SDE/Unique Paths (Down and Right).md",
+    "Hard/ReversePairs.md",
+    "Images/Pasted image 20250719122849.png",
+    "Images/Pasted image 20250719122805.png",
+    "Useful procedures and theorems/Converting a number (Integer) to base K.md",
+    "Medium_SDE/Rotating a matrix 90 degrees clockwise.md",
+    "Medium_SDE/Majority Element in an Array greater than third of nums.length.md",
+    "Easy/Majority Element in an Array greater than half of nums.length.md",
+    "Medium_SDE/Merging intervals of subarrays in a 2D array.md",
+    "Useful procedures and theorems/Converting Arrays to List.md",
+    "Useful procedures and theorems/Moore's majority voting theorem.md",
+    "Daily/Minimum subarrays formed within array with difference b-w max(subarray) - min(subarray) less than equal to k.md",
+    "Daily/Minimum changes to  a string of chars such that freq of any index - freq of any index is at most k.md",
+    "Daily/Max Difference between elements (Buy and sell stock).md",
+    "Daily/Longest Subsequence from the given string of binary digits less than or equal to k.md",
+    "Daily/Kth Smallest product between two sorted arrays.md",
+    "Daily/Grouping elements of an array into 3 with constrained difference.md",
+    "Daily/Adjacent k elements in an array of size n with values from (1 to m).md",
+    "Hard/Finding repeated and missing number from array of integers from 1 to N.md",
+    "Hard/Sum of the first n numbers where decimal is palindrome and base k is palindrome.md",
+    "Easy/Divide a String Into Groups of Size k.md",
+    "Easy/Rolling max sum of subarrays.md",
+    "Medium_SDE/Set Zero in Array.md",
+    "Medium_SDE/Power x raised to n function.md",
+    "Medium_SDE/Pascal Triangle.md",
+    "Medium_SDE/Optimal 2D search.md",
+    "Medium_SDE/Next sequence of arrays sorted lexicographically.md",
+    "Images/Pasted image 20250620222343.png",
+    "Images/Pasted image 20250620222250.png",
+    "Images/Pasted image 20250618104118.png",
+    "Images/Pasted image 20250616180233.png",
+    "Images",
+    "Useful procedures and theorems",
+    "Hard",
+    "Easy",
+    "Daily",
+    "Medium_SDE",
+    "desktop.ini"
+  ]
+}
