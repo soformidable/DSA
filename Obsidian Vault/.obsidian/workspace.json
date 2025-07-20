@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5fea2227be448da7",
+        "id": "8475d200607e5ab7",
         "type": "tabs",
         "children": [
           {
-            "id": "6769b75bef088eda",
+            "id": "6bce2c0e9c7dd76b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -175,11 +175,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83c3cbb0538a97a9",
+  "active": "6bce2c0e9c7dd76b",
   "lastOpenFiles": [
+    "Hard/Sum of the first n numbers where decimal is palindrome and base k is palindrome.md",
+    "Hard/ReversePairs.md",
+    "Hard/Finding repeated and missing number from array of integers from 1 to N.md",
     "2025-07-20.md",
     "Medium_SDE/Unique Paths (Down and Right).md",
-    "Hard/ReversePairs.md",
     "Images/Pasted image 20250719122849.png",
     "Images/Pasted image 20250719122805.png",
     "Useful procedures and theorems/Converting a number (Integer) to base K.md",
@@ -196,8 +198,6 @@
     "Daily/Kth Smallest product between two sorted arrays.md",
     "Daily/Grouping elements of an array into 3 with constrained difference.md",
     "Daily/Adjacent k elements in an array of size n with values from (1 to m).md",
-    "Hard/Finding repeated and missing number from array of integers from 1 to N.md",
-    "Hard/Sum of the first n numbers where decimal is palindrome and base k is palindrome.md",
     "Easy/Divide a String Into Groups of Size k.md",
     "Easy/Rolling max sum of subarrays.md",
     "Medium_SDE/Set Zero in Array.md",
