@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Two Sum in an Array.md",
+                "file": "Easy/Two Sum in an Array.md",
                 "mode": "source",
                 "source": false
               },
@@ -179,9 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6bce2c0e9c7dd76b",
+  "active": "505be8d19eaa4809",
   "lastOpenFiles": [
-    "Two Sum in an Array.md",
+    "Easy/Two Sum in an Array.md",
     "Hard/Sum of the first n numbers where decimal is palindrome and base k is palindrome.md",
     "Hard/ReversePairs.md",
     "Hard/Finding repeated and missing number from array of integers from 1 to N.md",
