@@ -11,10 +11,14 @@
             "id": "9b6e3524ddea8d2f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Hard/Four Sum.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Four Sum"
             }
           }
         ]
@@ -175,10 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83c3cbb0538a97a9",
+  "active": "505be8d19eaa4809",
   "lastOpenFiles": [
-    "Useful procedures and theorems/List of List of Integers.md",
+    "Medium_SDE/Longest Consecutive Sequence count.md",
     "Hard/Four Sum.md",
+    "Useful procedures and theorems/List of List of Integers.md",
     "Useful procedures and theorems/Integer Overflow.md",
     "Medium_SDE/Pascal Triangle.md",
     "Medium_SDE/Optimal 2D search.md",
@@ -202,7 +207,6 @@
     "Useful procedures and theorems/XOR.md",
     "Useful procedures and theorems/Transposing a matrix.md",
     "Useful procedures and theorems/Sorting a 2D array based on first element of each subarray.md",
-    "Useful procedures and theorems/Moore's majority voting theorem.md",
     "Images/Pasted image 20250719122849.png",
     "Images/Pasted image 20250719122805.png",
     "Images/Pasted image 20250620222343.png",
