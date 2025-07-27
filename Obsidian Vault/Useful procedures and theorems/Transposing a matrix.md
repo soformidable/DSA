@@ -10,6 +10,7 @@ Transpose:
 
 Code:
 
+```
         for(int row = 0 ; row < nums.length ; row++){
 
             for(int col = row ; col < nums.length ; col++){
@@ -23,3 +24,4 @@ Code:
             }
 
         }
+```

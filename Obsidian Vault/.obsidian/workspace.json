@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "8475d200607e5ab7",
+        "id": "1aff851961fc81f0",
         "type": "tabs",
         "children": [
           {
-            "id": "6bce2c0e9c7dd76b",
+            "id": "de5e34dc1072c891",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Easy/Two Sum in an Array.md",
+                "file": "Useful procedures and theorems/List of List of Integers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Two Sum in an Array"
+              "title": "List of List of Integers"
+            }
+          },
+          {
+            "id": "6127a02da25e8843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hard/Four Sum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Four Sum"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,34 +196,34 @@
   },
   "active": "505be8d19eaa4809",
   "lastOpenFiles": [
-    "Easy/Two Sum in an Array.md",
+    "Useful procedures and theorems/List of List of Integers.md",
+    "Hard/Four Sum.md",
+    "Useful procedures and theorems/Integer Overflow.md",
+    "Medium_SDE/Pascal Triangle.md",
+    "Medium_SDE/Optimal 2D search.md",
+    "Medium_SDE/Next sequence of arrays sorted lexicographically.md",
+    "Medium_SDE/Merging intervals of subarrays in a 2D array.md",
+    "Medium_SDE/Majority Element in an Array greater than third of nums.length.md",
+    "Medium_SDE/Dutch Sort.md",
+    "Medium_SDE/Duplicate value in array of 1 to n integers.md",
+    "Medium_SDE/Buy and Sell Stock.md",
     "Hard/Sum of the first n numbers where decimal is palindrome and base k is palindrome.md",
     "Hard/ReversePairs.md",
     "Hard/Finding repeated and missing number from array of integers from 1 to N.md",
-    "2025-07-20.md",
-    "Medium_SDE/Unique Paths (Down and Right).md",
-    "Images/Pasted image 20250719122849.png",
-    "Images/Pasted image 20250719122805.png",
-    "Useful procedures and theorems/Converting a number (Integer) to base K.md",
-    "Medium_SDE/Rotating a matrix 90 degrees clockwise.md",
-    "Medium_SDE/Majority Element in an Array greater than third of nums.length.md",
-    "Easy/Majority Element in an Array greater than half of nums.length.md",
-    "Medium_SDE/Merging intervals of subarrays in a 2D array.md",
-    "Useful procedures and theorems/Converting Arrays to List.md",
-    "Useful procedures and theorems/Moore's majority voting theorem.md",
-    "Daily/Minimum subarrays formed within array with difference b-w max(subarray) - min(subarray) less than equal to k.md",
     "Daily/Minimum changes to  a string of chars such that freq of any index - freq of any index is at most k.md",
+    "Daily/Minimum subarrays formed within array with difference b-w max(subarray) - min(subarray) less than equal to k.md",
     "Daily/Max Difference between elements (Buy and sell stock).md",
     "Daily/Longest Subsequence from the given string of binary digits less than or equal to k.md",
     "Daily/Kth Smallest product between two sorted arrays.md",
     "Daily/Grouping elements of an array into 3 with constrained difference.md",
     "Daily/Adjacent k elements in an array of size n with values from (1 to m).md",
-    "Easy/Divide a String Into Groups of Size k.md",
-    "Easy/Rolling max sum of subarrays.md",
-    "Medium_SDE/Set Zero in Array.md",
-    "Medium_SDE/Power x raised to n function.md",
-    "Medium_SDE/Pascal Triangle.md",
-    "Medium_SDE/Optimal 2D search.md",
+    "Useful procedures and theorems/Converting a list of list of integers to a 2D array.md",
+    "Useful procedures and theorems/XOR.md",
+    "Useful procedures and theorems/Transposing a matrix.md",
+    "Useful procedures and theorems/Sorting a 2D array based on first element of each subarray.md",
+    "Useful procedures and theorems/Moore's majority voting theorem.md",
+    "Images/Pasted image 20250719122849.png",
+    "Images/Pasted image 20250719122805.png",
     "Images/Pasted image 20250620222343.png",
     "Images/Pasted image 20250620222250.png",
     "Images/Pasted image 20250618104118.png",
