@@ -1,6 +1,7 @@
 
 https://leetcode.com/problems/reverse-linked-list/description/
 
+Code : https://github.com/soformidable/DSA/blob/main/LinkedList/Easy/LLReverse.java
 
 To return the head of the reverse linked list (LAST NODE)
 	A --> B --> C --> D --> NULL
