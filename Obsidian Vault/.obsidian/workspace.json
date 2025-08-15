@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "Reverse Linked List"
             }
+          },
+          {
+            "id": "bb509260db1a7f59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Useful procedures and theorems/Stack and Queue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stack and Queue"
+            }
+          },
+          {
+            "id": "ba49651c9e341361",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinkedList/Easy/Middle of the linked List (No Loops).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Middle of the linked List (No Loops)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,12 +224,14 @@
   },
   "active": "505be8d19eaa4809",
   "lastOpenFiles": [
+    "Useful procedures and theorems/Stack and Queue.md",
+    "LinkedList/Easy/Middle of the linked List (No Loops).md",
+    "LinkedList/Easy/Reverse Linked List.md",
     "Images/Pasted image 20250809180405.png",
     "Images/Pasted image 20250809175925.png",
     "Images/Pasted image 20250809175904.png",
     "Images/Pasted image 20250809175849.png",
     "Daily/Minimum subarrays formed within array with difference b-w max(subarray) - min(subarray) less than equal to k.md",
-    "LinkedList/Easy/Reverse Linked List.md",
     "LinkedList/Easy",
     "LinkedList",
     "Daily/Minimum changes to  a string of chars such that freq of any index - freq of any index is at most k.md",
@@ -233,7 +263,6 @@
     "Arrays/Medium_SDE/Pascal Triangle.md",
     "Arrays/Medium_SDE/Optimal 2D search.md",
     "Arrays/Medium_SDE/Next sequence of arrays sorted lexicographically.md",
-    "Arrays/Medium_SDE/Merging intervals of subarrays in a 2D array.md",
     "Images",
     "Useful procedures and theorems",
     "Arrays/Hard",

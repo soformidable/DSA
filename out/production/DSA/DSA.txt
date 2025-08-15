@@ -66,3 +66,4 @@ time complexity -> O(nlogn)
 Quicksort -> create a pivot (last element). Compare the pivot from the beginning of the array. if element > pivot then remember the index of the greater value;
                     keep going from left to right. if element <= pivot, swap it with the previous larger value index
                     time complexity -> O(nlogn)
+
