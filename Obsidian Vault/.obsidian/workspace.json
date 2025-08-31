@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medium_SDE/Pascal Triangle.md",
+                "file": "LinkedList/Easy/Reverse Linked List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pascal Triangle"
+              "title": "Outline of Reverse Linked List"
             }
           },
           {
@@ -209,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "505be8d19eaa4809",
+  "active": "6ad49abac3c02f85",
   "lastOpenFiles": [
     "Useful procedures and theorems/Stack and Queue.md",
     "LinkedList/Easy/Middle of the linked List (No Loops).md",
