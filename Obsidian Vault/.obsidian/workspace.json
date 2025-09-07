@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Delete Nth Node from the end of the linked List (1 indexed).md",
+                "file": "LinkedList/Medium/Delete Nth Node from the end of the linked List (1 indexed).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Delete Nth Node from the end of the linked List (1 indexed)"
             }
+          },
+          {
+            "id": "73f715aa1b778dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Add Two Linked Lists as individual numbers (reversed) and return new HEAD with digits as values.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Add Two Linked Lists as individual numbers (reversed) and return new HEAD with digits as values"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,6 +185,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,9 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc0b4538f1b18c9f",
+  "active": "73f715aa1b778dd4",
   "lastOpenFiles": [
-    "Delete Nth Node from the end of the linked List (1 indexed).md",
+    "LinkedList/Medium/Delete Nth Node from the end of the linked List (1 indexed).md",
+    "Add Two Linked Lists as individual numbers (reversed) and return new HEAD with digits as values.md",
     "LinkedList/Medium",
     "LinkedList/Easy/Middle of the linked List (No Loops).md",
     "Useful procedures and theorems/Stack and Queue.md",
@@ -220,7 +237,6 @@
     "Arrays/Hard/Four Sum.md",
     "Arrays/Medium_SDE/Longest Consecutive Sequence count.md",
     "Arrays/Medium_SDE/Pascal Triangle.md",
-    "Arrays/Medium_SDE/Optimal 2D search.md",
     "Images",
     "Useful procedures and theorems",
     "Arrays/Hard",
