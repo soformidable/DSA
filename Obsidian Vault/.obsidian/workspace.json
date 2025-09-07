@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Add Two Linked Lists as individual numbers (reversed) and return new HEAD with digits as values.md",
+                "file": "LinkedList/Medium/Add Two Linked Lists as individual numbers (reversed) and return new HEAD with digits as values.md",
                 "mode": "source",
                 "source": false
               },
@@ -195,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73f715aa1b778dd4",
+  "active": "505be8d19eaa4809",
   "lastOpenFiles": [
     "LinkedList/Medium/Delete Nth Node from the end of the linked List (1 indexed).md",
-    "Add Two Linked Lists as individual numbers (reversed) and return new HEAD with digits as values.md",
+    "LinkedList/Medium/Add Two Linked Lists as individual numbers (reversed) and return new HEAD with digits as values.md",
     "LinkedList/Medium",
     "LinkedList/Easy/Middle of the linked List (No Loops).md",
     "Useful procedures and theorems/Stack and Queue.md",
