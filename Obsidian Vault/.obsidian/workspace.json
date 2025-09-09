@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bedcfe721801cb00",
+        "id": "54bbb0abf0a5e8ec",
         "type": "tabs",
         "children": [
           {
-            "id": "dc0b4538f1b18c9f",
+            "id": "f8158597fe65b413",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinkedList/Medium/Delete Nth Node from the end of the linked List (1 indexed).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Delete Nth Node from the end of the linked List (1 indexed)"
-            }
-          },
-          {
-            "id": "73f715aa1b778dd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinkedList/Medium/Add Two Linked Lists as individual numbers (reversed) and return new HEAD with digits as values.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Add Two Linked Lists as individual numbers (reversed) and return new HEAD with digits as values"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73f715aa1b778dd4",
+  "active": "f8158597fe65b413",
   "lastOpenFiles": [
     "LinkedList/Medium/Delete Nth Node from the end of the linked List (1 indexed).md",
     "LinkedList/Medium/Add Two Linked Lists as individual numbers (reversed) and return new HEAD with digits as values.md",
