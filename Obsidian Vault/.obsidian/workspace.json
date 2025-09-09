@@ -11,10 +11,14 @@
             "id": "f8158597fe65b413",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Delete Given Node from List (Not a tail node) in O(1).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Delete Given Node from List (Not a tail node) in O(1)"
             }
           }
         ]
@@ -178,6 +182,7 @@
   },
   "active": "f8158597fe65b413",
   "lastOpenFiles": [
+    "Delete Given Node from List (Not a tail node) in O(1).md",
     "LinkedList/Medium/Delete Nth Node from the end of the linked List (1 indexed).md",
     "LinkedList/Medium/Add Two Linked Lists as individual numbers (reversed) and return new HEAD with digits as values.md",
     "LinkedList/Medium",
@@ -217,7 +222,6 @@
     "Arrays",
     "Arrays/Hard/Four Sum.md",
     "Arrays/Medium_SDE/Longest Consecutive Sequence count.md",
-    "Arrays/Medium_SDE/Pascal Triangle.md",
     "Images",
     "Useful procedures and theorems",
     "Arrays/Hard",
