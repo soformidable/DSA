@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Delete Given Node from List (Not a tail node) in O(1).md",
+                "file": "LinkedList/Medium/Delete Given Node from List (Not a tail node) in O(1).md",
                 "mode": "source",
                 "source": false
               },
@@ -180,9 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8158597fe65b413",
+  "active": "505be8d19eaa4809",
   "lastOpenFiles": [
-    "Delete Given Node from List (Not a tail node) in O(1).md",
+    "LinkedList/Medium/Delete Given Node from List (Not a tail node) in O(1).md",
     "LinkedList/Medium/Delete Nth Node from the end of the linked List (1 indexed).md",
     "LinkedList/Medium/Add Two Linked Lists as individual numbers (reversed) and return new HEAD with digits as values.md",
     "LinkedList/Medium",
