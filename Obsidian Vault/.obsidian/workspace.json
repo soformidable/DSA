@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinkedList/Easy/Palindrome List.md",
+                "file": "LinkedList/Easy/Palindrome Linked List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Palindrome List"
+              "title": "Palindrome Linked List"
             }
           }
         ],
@@ -209,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "505be8d19eaa4809",
+  "active": "83c3cbb0538a97a9",
   "lastOpenFiles": [
     "LinkedList/Medium/Has Cycle in Linked List.md",
-    "LinkedList/Easy/Palindrome List.md",
+    "LinkedList/Easy/Palindrome Linked List.md",
     "LinkedList/Medium/Delete Given Node from List (Not a tail node) in O(1).md",
     "LinkedList/Medium/Intersecting Node from Two Linked Lists.md",
     "Images/Pasted image 20250913172051.png",
