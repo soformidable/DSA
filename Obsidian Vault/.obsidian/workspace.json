@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Detect Starting Node of a cycle.md",
+                "file": "LinkedList/Medium/Detect Starting Node of a cycle.md",
                 "mode": "source",
                 "source": false
               },
@@ -223,10 +223,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27670e621bfdbb1c",
+  "active": "505be8d19eaa4809",
   "lastOpenFiles": [
     "LinkedList/Easy/Palindrome Linked List.md",
-    "Detect Starting Node of a cycle.md",
+    "LinkedList/Medium/Detect Starting Node of a cycle.md",
     "LinkedList/Medium/Has Cycle in Linked List.md",
     "LinkedList/Medium/Delete Given Node from List (Not a tail node) in O(1).md",
     "LinkedList/Medium/Intersecting Node from Two Linked Lists.md",
