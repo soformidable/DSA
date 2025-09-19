@@ -84,8 +84,6 @@ class LinkedList {
     }
 }
 
-
-
 public class CycleNodeDetect {
     public static void main(String args[]){
         LinkedList ll = new LinkedList();
