@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinkedList/Hard/Reverse Nodes in Group K.md",
+                "file": "LinkedList/Medium/Add Two Linked Lists as individual numbers (reversed) and return new HEAD with digits as values.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reverse Nodes in Group K"
+              "title": "Add Two Linked Lists as individual numbers (reversed) and return new HEAD with digits as values"
             }
           }
         ],
@@ -237,12 +237,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "505be8d19eaa4809",
+  "active": "76377a8d72d3fd9f",
   "lastOpenFiles": [
+    "LinkedList/Hard/Reverse Nodes in Group K.md",
     "Images/Pasted image 20250920145311.png",
     "LinkedList/Hard",
     "LinkedList/Medium/Detect Starting Node of a cycle.md",
-    "LinkedList/Hard/Reverse Nodes in Group K.md",
     "LinkedList/Easy/Palindrome Linked List.md",
     "LinkedList/Medium/Has Cycle in Linked List.md",
     "LinkedList/Medium/Delete Given Node from List (Not a tail node) in O(1).md",
@@ -271,7 +271,6 @@
     "Images/Pasted image 20250719122805.png",
     "Images/Pasted image 20250620222343.png",
     "Images/Pasted image 20250620222250.png",
-    "Images/Pasted image 20250618104118.png",
     "Useful procedures and theorems/XOR.md",
     "Useful procedures and theorems/Transposing a matrix.md",
     "Useful procedures and theorems/Sorting a 2D array based on first element of each subarray.md",
