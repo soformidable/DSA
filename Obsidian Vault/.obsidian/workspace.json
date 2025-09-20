@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reverse Nodes in Group K.md",
+                "file": "LinkedList/Hard/Reverse Nodes in Group K.md",
                 "mode": "source",
                 "source": false
               },
@@ -237,10 +237,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76377a8d72d3fd9f",
+  "active": "505be8d19eaa4809",
   "lastOpenFiles": [
+    "LinkedList/Hard",
     "LinkedList/Medium/Detect Starting Node of a cycle.md",
-    "Reverse Nodes in Group K.md",
+    "LinkedList/Hard/Reverse Nodes in Group K.md",
     "LinkedList/Easy/Palindrome Linked List.md",
     "LinkedList/Medium/Has Cycle in Linked List.md",
     "LinkedList/Medium/Delete Given Node from List (Not a tail node) in O(1).md",
@@ -277,7 +278,6 @@
     "Useful procedures and theorems/List of List of Integers.md",
     "Useful procedures and theorems/Converting Arrays to List.md",
     "Useful procedures and theorems/Integer Overflow.md",
-    "Useful procedures and theorems/Converting a number (Integer) to base K.md",
     "Arrays",
     "Images",
     "Useful procedures and theorems",
