@@ -23,6 +23,9 @@ code: https://github.com/soformidable/DSA/blob/main/LinkedList/Hard/ReverseNodes
 12. temp = nextNode (moving forward)
 13. return head
 
+![[Pasted image 20250920145311.png]]
+
+
 Code:
 ```
     public ListNode reverseKGroup(ListNode head, int k) {
