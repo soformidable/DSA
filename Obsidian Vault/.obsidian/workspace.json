@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays/Medium_SDE/Three Sum == 0.md",
+                "file": "Arrays/Hard/Four Sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Three Sum == 0"
+              "title": "Four Sum"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "be532a73422725fe",
   "lastOpenFiles": [
-    "Arrays/Hard/Four Sum.md",
     "Arrays/Medium_SDE/Three Sum == 0.md",
+    "Arrays/Hard/Four Sum.md",
     "LinkedList/Medium/Rotate Linked List to right by K.md",
     "Images/Pasted image 20250921174923.png",
     "LinkedList/Medium/Add Two Linked Lists as individual numbers (reversed) and return new HEAD with digits as values.md",

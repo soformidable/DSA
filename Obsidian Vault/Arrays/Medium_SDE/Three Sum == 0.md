@@ -1,6 +1,6 @@
 
-Problem: 
-Code:
+Problem: https://leetcode.com/problems/3sum/description/
+Code: https://github.com/soformidable/DSA/blob/main/Arrays/Medium/ThreeSum.java
 
 #### Approach 1 (Using HashSet)
 
@@ -65,8 +65,7 @@ Code:
 #### Approach 2 (Optimal three pointer)
 
 Same as FourSum where the addition is equal to value k.
-
-
+https://github.com/soformidable/DSA/blob/main/Arrays/Medium/FourSum.java
 
 1. Sort the array
 2. Run loop from i to n-1
