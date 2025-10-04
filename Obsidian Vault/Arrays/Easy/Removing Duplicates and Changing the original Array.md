@@ -1,7 +1,7 @@
 
 
-Problem: 
-Code: 
+Problem: https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+Code: https://github.com/soformidable/DSA/blob/main/Arrays/Easy/RemoveDuplicates.java
 
 
 Approach 1 (Using HashSet)

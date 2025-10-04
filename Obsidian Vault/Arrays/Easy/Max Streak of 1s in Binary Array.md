@@ -1,6 +1,6 @@
 
-Problem:
-Code:
+Problem: https://leetcode.com/problems/max-consecutive-ones/description/
+Code: https://github.com/soformidable/DSA/blob/main/Arrays/Easy/MaxConsecutiveOnes.java
 
 Two pointer approach
 ==O(n) --> i = index==
