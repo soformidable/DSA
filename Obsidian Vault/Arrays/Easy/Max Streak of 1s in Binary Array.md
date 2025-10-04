@@ -1,0 +1,37 @@
+
+Problem:
+Code:
+
+Two pointer approach
+==O(n) --> i = index==
+
+Code:
+```
+    public static int findMaxConsecutiveOnes(int[] nums) {
+
+        int max = 0;
+
+        for(int i = 0 ; i < nums.length ; i ++){
+
+            int streak = 0;
+
+            int index = i;
+
+            while(index < nums.length && nums[index] == 1){
+
+                index++;
+
+                streak++;
+
+            }
+
+            i = index;
+
+            max = Math.max(max,streak);
+
+        }
+
+        return max;
+
+    }
+```
