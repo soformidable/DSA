@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Max Streak of 1s in Binary Array"
             }
+          },
+          {
+            "id": "ee38f8dcb1f5a577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arrays/Hard/Trap Rainwater.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trap Rainwater"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,10 +209,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "973653412f85fa50",
+  "active": "505be8d19eaa4809",
   "lastOpenFiles": [
     "Arrays/Easy/Removing Duplicates and Changing the original Array.md",
     "Arrays/Easy/Max Streak of 1s in Binary Array.md",
+    "Arrays/Hard/Trap Rainwater.md",
     "Useful procedures and theorems/Integer Overflow.md",
     "Useful procedures and theorems/Converting Set (Hash or Tree) to Array.md",
     "Useful procedures and theorems/TreeSet vs HashSet.md",
@@ -234,7 +249,6 @@
     "Daily/Longest Subsequence from the given string of binary digits less than or equal to k.md",
     "Daily/Kth Smallest product between two sorted arrays.md",
     "Daily/Grouping elements of an array into 3 with constrained difference.md",
-    "Daily/Adjacent k elements in an array of size n with values from (1 to m).md",
     "Images/Pasted image 20250719122849.png",
     "Images/Pasted image 20250719122805.png",
     "Arrays",
