@@ -1,6 +1,6 @@
 
-problem:
-code:
+problem: https://leetcode.com/problems/trapping-rain-water/description/
+code: https://github.com/soformidable/DSA/blob/main/Arrays/Hard/TrapRainWater.java
 
 Approach 1 O(n^2):
 
