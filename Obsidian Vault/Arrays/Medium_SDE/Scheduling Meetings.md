@@ -1,6 +1,6 @@
-problem: Given two arrays start and end, return a list of the ids of the maxixmum meetings that can be arranged in a day
+problem: Given two arrays start and end, return a list of the ids of the maximum meetings that can be arranged in a day
 
-code:
+code: https://github.com/soformidable/DSA/blob/main/Arrays/Medium/AccomodateMeetings.java
 
 
 Approach:
