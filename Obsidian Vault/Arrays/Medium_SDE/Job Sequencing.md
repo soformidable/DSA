@@ -1,7 +1,7 @@
 
 problem: Given a two dimensional array with (job_id, deadline, profit) and N (number of jobs); Find the total number of scheduled jobs and the maximized profit
 
-code:
+code: https://github.com/soformidable/DSA/blob/main/Arrays/Medium/JobSequencing.java
 
 
 
