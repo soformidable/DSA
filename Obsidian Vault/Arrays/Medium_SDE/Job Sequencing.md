@@ -4,6 +4,14 @@ problem: Given a two dimensional array with (job_id, deadline, profit) and N (nu
 code: https://github.com/soformidable/DSA/blob/main/Arrays/Medium/JobSequencing.java
 
 
+Basic Outline of the approach:-
+
+- Sort the jobs in descending order of profit. 
+- If the maximum deadline is x, make an array of size x .Each array index is set to -1 initially as no jobs have been performed yet.
+- For every job check if it can be performed on its last day.
+- If possible mark that index with the job id and add the profit to our answer. 
+- If not possible, loop through the previous indexes until an empty slot is found.
+
 
 Approach:
 1. Sort the List<int\[]> by the profit in DESC
