@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fractional Knapsack.md",
+                "file": "Arrays/Medium_SDE/Fractional Knapsack.md",
                 "mode": "source",
                 "source": false
               },
@@ -209,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2abe91a46217a996",
+  "active": "505be8d19eaa4809",
   "lastOpenFiles": [
     "Useful procedures and theorems/Using Comparator to keep original indices after sorting or Sorting multiple arrays at once in Sync.md",
-    "Fractional Knapsack.md",
+    "Arrays/Medium_SDE/Fractional Knapsack.md",
     "Useful procedures and theorems/Sorting on multiple array indices from a List of integer array (like order by on multiple columns in sql).md",
     "Arrays/Medium_SDE/Job Sequencing.md",
     "Arrays/Medium_SDE/Minimum Platforms required for the trains without overlapping arrivals and departures.md",
