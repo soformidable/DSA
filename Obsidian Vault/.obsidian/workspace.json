@@ -39,14 +39,14 @@
             "id": "2abe91a46217a996",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Arrays/Medium_SDE/Fractional Knapsack.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Obsidian Vault/.obsidian/workspace.json",
+                "bFile": "Obsidian Vault/.obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Fractional Knapsack"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -209,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "505be8d19eaa4809",
+  "active": "2abe91a46217a996",
   "lastOpenFiles": [
     "Useful procedures and theorems/Using Comparator to keep original indices after sorting or Sorting multiple arrays at once in Sync.md",
     "Arrays/Medium_SDE/Fractional Knapsack.md",

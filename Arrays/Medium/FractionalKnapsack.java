@@ -12,10 +12,6 @@ public class FractionalKnapsack{
         }
 
         lst.sort(Comparator.comparingDouble((int[] a) -> -((double) a[0]/a[1])));
-
-        for(int[] x : lst){
-            System.out.println(x[1]);
-        }
         
         for(int[] x : lst){
             if(remaining_weight >= x[1]){
