@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "12668bc4acdbb7d2",
+        "id": "bbf526c92b735c85",
         "type": "tabs",
         "children": [
           {
-            "id": "1b4c1a792feddf8c",
+            "id": "d70412c0db41cefc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays/Medium_SDE/Job Sequencing.md",
+                "file": "Useful procedures and theorems/Sorting on multiple array indices from a List of integer array (like order by on multiple columns in sql).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Job Sequencing"
+              "title": "Sorting on multiple array indices from a List of integer array (like order by on multiple columns in sql)"
+            }
+          },
+          {
+            "id": "288f1e08aa80cad6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Useful procedures and theorems/Using Comparator to keep original indices after sorting or Sorting multiple arrays at once in Sync.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Using Comparator to keep original indices after sorting or Sorting multiple arrays at once in Sync"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,11 +195,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b4c1a792feddf8c",
+  "active": "288f1e08aa80cad6",
   "lastOpenFiles": [
-    "Arrays/Medium_SDE/Job Sequencing.md",
     "Useful procedures and theorems/Sorting on multiple array indices from a List of integer array (like order by on multiple columns in sql).md",
     "Useful procedures and theorems/Using Comparator to keep original indices after sorting or Sorting multiple arrays at once in Sync.md",
+    "Arrays/Medium_SDE/Job Sequencing.md",
     "Arrays/Medium_SDE/Minimum Platforms required for the trains without overlapping arrivals and departures.md",
     "Images/Pasted image 20251019174513.png",
     "Images/Pasted image 20251019173605.png",

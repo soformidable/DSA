@@ -14,7 +14,7 @@ for (int i = 0; i < indices. Length; i++) {
     indices\[i] = i;
 }
 
-Arrays.sort(indices, (a, b) -> nums[a] - nums[b]);
+Arrays.sort(indices, (a, b) -> nums\[a] - nums\[b]);
 Step 1: Creating an indices array
 You first create an array of indices (not actual numbers from nums):
 
