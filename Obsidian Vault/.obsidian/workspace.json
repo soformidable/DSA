@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "Using Comparator to keep original indices after sorting or Sorting multiple arrays at once in Sync"
             }
-          },
-          {
-            "id": "2abe91a46217a996",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Obsidian Vault/.obsidian/workspace.json",
-                "bFile": "Obsidian Vault/.obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2abe91a46217a996",
+  "active": "83c3cbb0538a97a9",
   "lastOpenFiles": [
     "Useful procedures and theorems/Using Comparator to keep original indices after sorting or Sorting multiple arrays at once in Sync.md",
     "Arrays/Medium_SDE/Fractional Knapsack.md",
