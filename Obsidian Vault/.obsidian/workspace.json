@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bbf526c92b735c85",
+        "id": "28b4259ec39a592b",
         "type": "tabs",
         "children": [
           {
-            "id": "d70412c0db41cefc",
+            "id": "68c6e7accb9b8d44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful procedures and theorems/Sorting on multiple array indices from a List of integer array (like order by on multiple columns in sql).md",
+                "file": "Minimum number of coins required to change value v to change.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sorting on multiple array indices from a List of integer array (like order by on multiple columns in sql)"
-            }
-          },
-          {
-            "id": "288f1e08aa80cad6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Useful procedures and theorems/Using Comparator to keep original indices after sorting or Sorting multiple arrays at once in Sync.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Using Comparator to keep original indices after sorting or Sorting multiple arrays at once in Sync"
+              "title": "Minimum number of coins required to change value v to change"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83c3cbb0538a97a9",
+  "active": "68c6e7accb9b8d44",
   "lastOpenFiles": [
+    "Minimum number of coins required to change value v to change.md",
     "Useful procedures and theorems/Using Comparator to keep original indices after sorting or Sorting multiple arrays at once in Sync.md",
     "Arrays/Medium_SDE/Fractional Knapsack.md",
     "Useful procedures and theorems/Sorting on multiple array indices from a List of integer array (like order by on multiple columns in sql).md",
@@ -228,7 +214,6 @@
     "LinkedList/Hard/Reverse Nodes in Group K.md",
     "Images/Pasted image 20250920145311.png",
     "LinkedList/Hard",
-    "LinkedList/Medium/Detect Starting Node of a cycle.md",
     "Images/Pasted image 20250913172051.png",
     "LinkedList/Medium",
     "Images/Pasted image 20250809180405.png",
