@@ -1,6 +1,6 @@
 
 Problem: https://leetcode.com/problems/assign-cookies/description/
-Code:
+Code: https://github.com/soformidable/DSA/blob/main/Arrays/Easy/AssignCookies.java
 
 
 Approach:
