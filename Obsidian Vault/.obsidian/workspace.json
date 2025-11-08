@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minimum number of coins required to change value v to change.md",
+                "file": "Arrays/Medium_SDE/Minimum number of coins required to change value v to change.md",
                 "mode": "source",
                 "source": false
               },
@@ -180,9 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68c6e7accb9b8d44",
+  "active": "505be8d19eaa4809",
   "lastOpenFiles": [
-    "Minimum number of coins required to change value v to change.md",
+    "Arrays/Medium_SDE/Minimum number of coins required to change value v to change.md",
     "Useful procedures and theorems/Using Comparator to keep original indices after sorting or Sorting multiple arrays at once in Sync.md",
     "Arrays/Medium_SDE/Fractional Knapsack.md",
     "Useful procedures and theorems/Sorting on multiple array indices from a List of integer array (like order by on multiple columns in sql).md",
