@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sum of all subsets in an Array.md",
+                "file": "Arrays/Recursion/Sum of all subsets in an Array.md",
                 "mode": "source",
                 "source": false
               },
@@ -180,11 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f65baff26abf4f2",
+  "active": "505be8d19eaa4809",
   "lastOpenFiles": [
-    "Pasted image 20251115120710.png",
+    "Images/Pasted image 20251115120710.png",
     "Arrays/Easy/Assign Cookie to children based on greed and cookie size.md",
-    "Sum of all subsets in an Array.md",
+    "Arrays/Recursion/Sum of all subsets in an Array.md",
     "Arrays/Recursion",
     "Useful procedures and theorems/Sorting a 2D array based on first element of each subarray.md",
     "Useful procedures and theorems/Using Comparator to keep original indices after sorting or Sorting multiple arrays at once in Sync.md",

@@ -1,7 +1,7 @@
 
 problem : Given an Array arr and the size N. return a list containing all the sums of the subsets (including 0)
 
-Code:
+Code: https://github.com/soformidable/DSA/blob/main/Arrays/Recursion/SumOfSubsets.java
 
 **Recursive Approach:**
 
