@@ -7,7 +7,7 @@ public class SumOfSubsets {
         Collections.sort(lst);
         return lst;
     }
-    // Use Set<Integer> to avoid duplicates in the final subset for example {1,-1,2}
+    // Use Set<Integer> to avoid duplicates in the final subset for example input   {1,-1,2}
     public static void getSubsetHelper(int index, int sum, int N, int arr[], List<Integer> subset){
 
         if(N == index){
