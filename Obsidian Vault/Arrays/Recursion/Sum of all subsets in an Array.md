@@ -19,7 +19,7 @@ Code: https://github.com/soformidable/DSA/blob/main/Arrays/Recursion/SumOfSubset
 5. **NOTE: ONLY LEAF NODES are added into the subset because of the base condition if (index == N)**
 
 
-![[Pasted image 20251115120710.png]]
+![[Pasted image 20251115121129.png]]
 
 
 Code:

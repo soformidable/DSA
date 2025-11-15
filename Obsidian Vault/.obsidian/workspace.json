@@ -180,11 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "505be8d19eaa4809",
+  "active": "4f65baff26abf4f2",
   "lastOpenFiles": [
     "Images/Pasted image 20251115120710.png",
-    "Arrays/Easy/Assign Cookie to children based on greed and cookie size.md",
     "Arrays/Recursion/Sum of all subsets in an Array.md",
+    "Images/Pasted image 20251115121129.png",
+    "Arrays/Easy/Assign Cookie to children based on greed and cookie size.md",
     "Arrays/Recursion",
     "Useful procedures and theorems/Sorting a 2D array based on first element of each subarray.md",
     "Useful procedures and theorems/Using Comparator to keep original indices after sorting or Sorting multiple arrays at once in Sync.md",
@@ -219,8 +220,6 @@
     "LinkedList/Medium",
     "Images/Pasted image 20250809180405.png",
     "Images/Pasted image 20250809175925.png",
-    "Images/Pasted image 20250809175904.png",
-    "Images/Pasted image 20250809175849.png",
     "LinkedList/Easy",
     "LinkedList",
     "Arrays",
