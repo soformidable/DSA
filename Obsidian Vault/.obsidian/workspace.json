@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "28b4259ec39a592b",
+        "id": "9e315b77a344e64d",
         "type": "tabs",
         "children": [
           {
-            "id": "68c6e7accb9b8d44",
+            "id": "4f65baff26abf4f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful procedures and theorems/Sorting a 2D array based on first element of each subarray.md",
+                "file": "Sum of all subsets in an Array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sorting a 2D array based on first element of each subarray"
-            }
-          },
-          {
-            "id": "2cff077876d98170",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arrays/Easy/Assign Cookie to children based on greed and cookie size.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Assign Cookie to children based on greed and cookie size"
+              "title": "Sum of all subsets in an Array"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,10 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "505be8d19eaa4809",
+  "active": "4f65baff26abf4f2",
   "lastOpenFiles": [
-    "Useful procedures and theorems/Sorting a 2D array based on first element of each subarray.md",
+    "Pasted image 20251115120710.png",
     "Arrays/Easy/Assign Cookie to children based on greed and cookie size.md",
+    "Sum of all subsets in an Array.md",
+    "Arrays/Recursion",
+    "Useful procedures and theorems/Sorting a 2D array based on first element of each subarray.md",
     "Useful procedures and theorems/Using Comparator to keep original indices after sorting or Sorting multiple arrays at once in Sync.md",
     "Useful procedures and theorems/TreeSet vs HashSet.md",
     "Useful procedures and theorems/Transposing a matrix.md",
@@ -224,8 +212,6 @@
     "Images/Pasted image 20250620222343.png",
     "Daily/Minimum changes to  a string of chars such that freq of any index - freq of any index is at most k.md",
     "Daily/Max Difference between elements (Buy and sell stock).md",
-    "Daily/Minimum subarrays formed within array with difference b-w max(subarray) - min(subarray) less than equal to k.md",
-    "Arrays/Medium_SDE/Three Sum == 0.md",
     "Images/Pasted image 20250921174923.png",
     "Images/Pasted image 20250920145311.png",
     "LinkedList/Hard",
@@ -241,7 +227,6 @@
     "Images",
     "Useful procedures and theorems",
     "Arrays/Hard",
-    "Arrays/Easy",
-    "Daily"
+    "Arrays/Easy"
   ]
 }
