@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays/Recursion/Sum of all subsets in an Array.md",
+                "file": "Useful procedures and theorems/Converting Arrays to List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sum of all subsets in an Array"
+              "title": "Converting Arrays to List"
             }
           }
         ]
@@ -182,8 +182,11 @@
   },
   "active": "4f65baff26abf4f2",
   "lastOpenFiles": [
-    "Images/Pasted image 20251115120710.png",
+    "Useful procedures and theorems/Converting a number (Integer) to base K.md",
+    "Useful procedures and theorems/List of List of Integers.md",
+    "Useful procedures and theorems/Converting a list of list of integers to a 2D array.md",
     "Arrays/Recursion/Sum of all subsets in an Array.md",
+    "Images/Pasted image 20251115120710.png",
     "Images/Pasted image 20251115121129.png",
     "Arrays/Easy/Assign Cookie to children based on greed and cookie size.md",
     "Arrays/Recursion",
@@ -191,12 +194,9 @@
     "Useful procedures and theorems/Using Comparator to keep original indices after sorting or Sorting multiple arrays at once in Sync.md",
     "Useful procedures and theorems/TreeSet vs HashSet.md",
     "Useful procedures and theorems/Transposing a matrix.md",
-    "Useful procedures and theorems/List of List of Integers.md",
     "Useful procedures and theorems/Integer Overflow.md",
     "Useful procedures and theorems/Converting Set (Hash or Tree) to Array.md",
     "Useful procedures and theorems/Converting Arrays to List.md",
-    "Useful procedures and theorems/Converting a number (Integer) to base K.md",
-    "Useful procedures and theorems/Converting a list of list of integers to a 2D array.md",
     "Arrays/Medium_SDE/Minimum number of coins required to change value v to change.md",
     "Arrays/Medium_SDE/Fractional Knapsack.md",
     "Useful procedures and theorems/Sorting on multiple array indices from a List of integer array (like order by on multiple columns in sql).md",
