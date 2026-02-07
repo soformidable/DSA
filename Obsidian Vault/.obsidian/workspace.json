@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays/Recursion/Recursion - Combination Sum.md",
+                "file": "Useful procedures and theorems/Transposing a matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recursion - Combination Sum"
+              "title": "Transposing a matrix"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,14 +194,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "505be8d19eaa4809",
+  "active": "4f65baff26abf4f2",
   "lastOpenFiles": [
-    "Useful procedures and theorems/Converting Arrays to List.md",
+    "Useful procedures and theorems/Transposing a matrix.md",
     "Arrays/Recursion/Recursion - Combination Sum.md",
-    "Useful procedures and theorems/Converting a number (Integer) to base K.md",
-    "Useful procedures and theorems/List of List of Integers.md",
-    "Useful procedures and theorems/Converting a list of list of integers to a 2D array.md",
     "Arrays/Recursion/Sum of all subsets in an Array.md",
+    "Useful procedures and theorems/Converting Set (Hash or Tree) to Array.md",
+    "Useful procedures and theorems/Integer Overflow.md",
+    "Useful procedures and theorems/List of List of Integers.md",
+    "Useful procedures and theorems/Moore's majority voting theorem.md",
+    "Useful procedures and theorems/Converting Arrays to List.md",
+    "Useful procedures and theorems/Converting a number (Integer) to base K.md",
+    "Useful procedures and theorems/Converting a list of list of integers to a 2D array.md",
     "Images/Pasted image 20251115120710.png",
     "Images/Pasted image 20251115121129.png",
     "Arrays/Easy/Assign Cookie to children based on greed and cookie size.md",
@@ -210,9 +213,6 @@
     "Useful procedures and theorems/Sorting a 2D array based on first element of each subarray.md",
     "Useful procedures and theorems/Using Comparator to keep original indices after sorting or Sorting multiple arrays at once in Sync.md",
     "Useful procedures and theorems/TreeSet vs HashSet.md",
-    "Useful procedures and theorems/Transposing a matrix.md",
-    "Useful procedures and theorems/Integer Overflow.md",
-    "Useful procedures and theorems/Converting Set (Hash or Tree) to Array.md",
     "Arrays/Medium_SDE/Minimum number of coins required to change value v to change.md",
     "Arrays/Medium_SDE/Fractional Knapsack.md",
     "Useful procedures and theorems/Sorting on multiple array indices from a List of integer array (like order by on multiple columns in sql).md",
@@ -223,7 +223,6 @@
     "Arrays/Easy/Removing Duplicates and Changing the original Array.md",
     "Arrays/Easy/Max Streak of 1s in Binary Array.md",
     "Arrays/Medium_SDE/Scheduling Meetings.md",
-    "Useful procedures and theorems/Moore's majority voting theorem.md",
     "Arrays/Hard/Trap Rainwater.md",
     "Arrays/Hard/Four Sum.md",
     "Images/Pasted image 20250620222343.png",
