@@ -8,7 +8,7 @@ public class CombinationSum {
     public static List<List<Integer>> combinationSum(int[] candidates, int target) {
 
         List<Integer> lst = Arrays.stream(candidates).boxed().collect(Collectors.toList());
-        List<Integer> cnd = new ArrayList<Integer>();
+        List<Integer> cnd = new ArrayList<Integer>();   
         List<List<Integer>> result = new ArrayList<>();
 
 
