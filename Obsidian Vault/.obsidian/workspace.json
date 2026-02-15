@@ -35,8 +35,7 @@
               "title": "Sum of all subsets in an Array"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,14 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2fafff0b4d619f0",
+  "active": "67d4f4628aea1d90",
   "lastOpenFiles": [
+    "Arrays/Recursion/Sum of all subsets in an Array.md",
     "Arrays/Recursion/Recursion - Combination Sum.md",
     "Arrays/Recursion/Palindrome Combination.md",
     "Arrays/Recursion/Combination Sum 2.md",
     "Useful procedures and theorems/Converting Arrays to List.md",
     "Useful procedures and theorems/Transposing a matrix.md",
-    "Arrays/Recursion/Sum of all subsets in an Array.md",
     "Useful procedures and theorems/Converting Set (Hash or Tree) to Array.md",
     "Useful procedures and theorems/Integer Overflow.md",
     "Useful procedures and theorems/List of List of Integers.md",

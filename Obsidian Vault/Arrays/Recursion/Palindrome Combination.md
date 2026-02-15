@@ -2,7 +2,7 @@
 Problem: Given a string, find all the sub lists with the possible palindromes -->
 s = "abba" ;; output = \[\[a, b, b, a], \[a, bb, a], \[abba]]
 
-Code:
+Code: https://github.com/soformidable/DSA/blob/main/Arrays/Recursion/PalindromeCombinations.java
 
 
 Approach:
