@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "All Numbers Permutation.md",
+                "file": "Arrays/Recursion/All Numbers Permutation.md",
                 "mode": "source",
                 "source": false
               },
@@ -223,10 +223,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0f40effce75a7dc",
+  "active": "505be8d19eaa4809",
   "lastOpenFiles": [
     "Arrays/Recursion/Permutation Sequence.md",
-    "All Numbers Permutation.md",
+    "Arrays/Recursion/All Numbers Permutation.md",
     "Arrays/Recursion/Palindrome Combination.md",
     "Arrays/Recursion/Sum of all subsets in an Array.md",
     "Arrays/Recursion/Recursion - Combination Sum.md",
