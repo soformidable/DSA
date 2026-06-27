@@ -4,6 +4,7 @@
 https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/description/?envType=daily-question&envId=2026-06-27
 
 Code link:
+https://github.com/soformidable/DSA/blob/main/Daily/PowerSymmetrySubset.java
 
 Given an array of integers, find the **maximum size** of a subset that is **power-symmetric**:
 - The subset can be organized into chains where each element is the **square** of the previous one: `a → a² → a⁴ → a⁸ → ...`
