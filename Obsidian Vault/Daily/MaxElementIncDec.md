@@ -4,7 +4,7 @@
 https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/description/?envType=daily-question&envId=2026-06-28
 
 ## Solution:
-
+https://github.com/soformidable/DSA/blob/main/Daily/MaxElementIncDec.java
 
 Given an array of positive integers, you can perform two operations any number of times:
 1. **Decrement** any element by 1 (can be done multiple times on the same element).
