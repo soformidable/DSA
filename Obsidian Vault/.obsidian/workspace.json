@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/Symmetrical Subset of Arrays with powers.md",
+                "file": "Daily/MaxElementIncDec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Symmetrical Subset of Arrays with powers"
+              "title": "MaxElementIncDec"
             }
           }
         ],
@@ -225,6 +225,7 @@
   },
   "active": "f0f40effce75a7dc",
   "lastOpenFiles": [
+    "Daily/Symmetrical Subset of Arrays with powers.md",
     "Arrays/Recursion/All Numbers Permutation.md",
     "Arrays/Recursion/Permutation Sequence.md",
     "Arrays/Recursion/Palindrome Combination.md",
@@ -255,7 +256,6 @@
     "Images/Pasted image 20251019173605.png",
     "Arrays/Easy/Removing Duplicates and Changing the original Array.md",
     "Arrays/Easy/Max Streak of 1s in Binary Array.md",
-    "Arrays/Medium_SDE/Scheduling Meetings.md",
     "Images/Pasted image 20250620222343.png",
     "Images/Pasted image 20250921174923.png",
     "Images/Pasted image 20250920145311.png",
