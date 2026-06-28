@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays/Recursion/All Numbers Permutation.md",
+                "file": "Daily/Symmetrical Subset of Arrays with powers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "All Numbers Permutation"
+              "title": "Symmetrical Subset of Arrays with powers"
             }
           }
         ],
@@ -223,10 +223,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "505be8d19eaa4809",
+  "active": "f0f40effce75a7dc",
   "lastOpenFiles": [
-    "Arrays/Recursion/Permutation Sequence.md",
     "Arrays/Recursion/All Numbers Permutation.md",
+    "Arrays/Recursion/Permutation Sequence.md",
     "Arrays/Recursion/Palindrome Combination.md",
     "Arrays/Recursion/Sum of all subsets in an Array.md",
     "Arrays/Recursion/Recursion - Combination Sum.md",
