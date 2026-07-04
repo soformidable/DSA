@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/MaxElementIncDec.md",
+                "file": "Useful procedures and theorems/Sorting a 2D array based on first element of each subarray.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MaxElementIncDec"
+              "title": "Sorting a 2D array based on first element of each subarray"
             }
           }
         ],
@@ -205,11 +205,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,6 +226,7 @@
   },
   "active": "f0f40effce75a7dc",
   "lastOpenFiles": [
+    "Daily/MaxElementIncDec.md",
     "Daily/Symmetrical Subset of Arrays with powers.md",
     "Arrays/Recursion/All Numbers Permutation.md",
     "Arrays/Recursion/Permutation Sequence.md",
@@ -255,7 +257,6 @@
     "Images/Pasted image 20251019174513.png",
     "Images/Pasted image 20251019173605.png",
     "Arrays/Easy/Removing Duplicates and Changing the original Array.md",
-    "Arrays/Easy/Max Streak of 1s in Binary Array.md",
     "Images/Pasted image 20250620222343.png",
     "Images/Pasted image 20250921174923.png",
     "Images/Pasted image 20250920145311.png",
