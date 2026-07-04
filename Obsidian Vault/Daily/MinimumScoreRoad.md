@@ -88,6 +88,8 @@ Build an adjacency list graph where each node stores all edges incident to it. T
 
 BFS ensures we explore the entire connected component of city `1` in `O(N + R)` time, without repeatedly scanning the entire road list.
 
+BFS Link: [[BFS using Queue]]
+Adjacency List: [[Adjacency List in ArrayList]]
 ### Algorithm
 
 1. Build graph: for each road `(u, v, dist)`, add it to both `graph[u]` and `graph[v]`.
