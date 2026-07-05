@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful procedures and theorems/List of List of Integers.md",
+                "file": "Daily/BoardPathMaxSum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "List of List of Integers"
+              "title": "BoardPathMaxSum"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,9 +193,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59f54cda68823cd9",
+  "active": "d04ebd6bccbfb37c",
   "lastOpenFiles": [
     "Daily/BoardPathMaxSum.md",
+    "Useful procedures and theorems/List of List of Integers.md",
     "Useful procedures and theorems/Integer Overflow.md",
     "Useful procedures and theorems/Converting Set (Hash or Tree) to Array.md",
     "Useful procedures and theorems/Converting Arrays to List.md",
@@ -215,7 +215,6 @@
     "Arrays/Recursion/Recursion - Combination Sum.md",
     "Arrays/Recursion/Combination Sum 2.md",
     "Useful procedures and theorems/Transposing a matrix.md",
-    "Useful procedures and theorems/List of List of Integers.md",
     "Useful procedures and theorems/Moore's majority voting theorem.md",
     "Useful procedures and theorems/Converting a number (Integer) to base K.md",
     "Images/Pasted image 20251115120710.png",
