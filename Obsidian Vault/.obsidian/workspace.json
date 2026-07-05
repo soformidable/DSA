@@ -25,10 +25,14 @@
             "id": "59f54cda68823cd9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Useful procedures and theorems/List of List of Integers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "List of List of Integers"
             }
           }
         ],
@@ -192,8 +196,13 @@
   },
   "active": "59f54cda68823cd9",
   "lastOpenFiles": [
-    "Daily/MinimumScoreRoad.md",
+    "Useful procedures and theorems/Integer Overflow.md",
+    "Useful procedures and theorems/Converting Set (Hash or Tree) to Array.md",
+    "Useful procedures and theorems/Converting Arrays to List.md",
+    "Useful procedures and theorems/Converting a list of list of integers to a 2D array.md",
     "Useful procedures and theorems/Adjacency List in ArrayList.md",
+    "Untitled.base",
+    "Daily/MinimumScoreRoad.md",
     "Useful procedures and theorems/BFS using Queue.md",
     "Arrays/Recursion/Sum of all subsets in an Array.md",
     "Useful procedures and theorems/Sorting a 2D array based on first element of each subarray.md",
@@ -204,14 +213,10 @@
     "Arrays/Recursion/Palindrome Combination.md",
     "Arrays/Recursion/Recursion - Combination Sum.md",
     "Arrays/Recursion/Combination Sum 2.md",
-    "Useful procedures and theorems/Converting Arrays to List.md",
     "Useful procedures and theorems/Transposing a matrix.md",
-    "Useful procedures and theorems/Converting Set (Hash or Tree) to Array.md",
-    "Useful procedures and theorems/Integer Overflow.md",
     "Useful procedures and theorems/List of List of Integers.md",
     "Useful procedures and theorems/Moore's majority voting theorem.md",
     "Useful procedures and theorems/Converting a number (Integer) to base K.md",
-    "Useful procedures and theorems/Converting a list of list of integers to a 2D array.md",
     "Images/Pasted image 20251115120710.png",
     "Images/Pasted image 20251115121129.png",
     "Arrays/Easy/Assign Cookie to children based on greed and cookie size.md",
@@ -220,7 +225,6 @@
     "Useful procedures and theorems/TreeSet vs HashSet.md",
     "Arrays/Medium_SDE/Minimum number of coins required to change value v to change.md",
     "Arrays/Medium_SDE/Fractional Knapsack.md",
-    "Useful procedures and theorems/Sorting on multiple array indices from a List of integer array (like order by on multiple columns in sql).md",
     "Images/Pasted image 20251019174513.png",
     "Images/Pasted image 20251019173605.png",
     "Images/Pasted image 20250620222343.png",
@@ -236,7 +240,6 @@
     "Arrays",
     "Images",
     "Useful procedures and theorems",
-    "Arrays/Hard",
-    "Arrays/Easy"
+    "Arrays/Hard"
   ]
 }
