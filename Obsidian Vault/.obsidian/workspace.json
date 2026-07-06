@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful procedures and theorems/BFS using Queue.md",
+                "file": "Daily/BoardPathMaxSum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BFS using Queue"
+              "title": "BoardPathMaxSum"
             }
           },
           {
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 200
   },
   "right": {
     "id": "176bd6f93bfca2c7",
@@ -195,6 +195,8 @@
   },
   "active": "d04ebd6bccbfb37c",
   "lastOpenFiles": [
+    "Useful procedures and theorems/Linked List Basics.md",
+    "Useful procedures and theorems/BFS using Queue.md",
     "Daily/BoardPathMaxSum.md",
     "Useful procedures and theorems/List of List of Integers.md",
     "Useful procedures and theorems/Integer Overflow.md",
@@ -204,7 +206,6 @@
     "Useful procedures and theorems/Adjacency List in ArrayList.md",
     "Untitled.base",
     "Daily/MinimumScoreRoad.md",
-    "Useful procedures and theorems/BFS using Queue.md",
     "Arrays/Recursion/Sum of all subsets in an Array.md",
     "Useful procedures and theorems/Sorting a 2D array based on first element of each subarray.md",
     "Daily/MaxElementIncDec.md",
@@ -224,7 +225,6 @@
     "Useful procedures and theorems/Using Comparator to keep original indices after sorting or Sorting multiple arrays at once in Sync.md",
     "Useful procedures and theorems/TreeSet vs HashSet.md",
     "Arrays/Medium_SDE/Minimum number of coins required to change value v to change.md",
-    "Arrays/Medium_SDE/Fractional Knapsack.md",
     "Images/Pasted image 20251019174513.png",
     "Images/Pasted image 20251019173605.png",
     "Images/Pasted image 20250620222343.png",
