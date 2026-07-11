@@ -1,5 +1,10 @@
 # Complete Components Count
 
+Problem:
+https://leetcode.com/problems/count-the-number-of-complete-components/description/?envType=daily-question&envId=2026-07-11
+
+Code:
+https://github.com/soformidable/DSA/blob/main/Daily/CompleteComponentsCount.java
 ## Problem Statement
 You are given an integer `n` representing the number of vertices in an undirected graph, and a 2D array `edges` where each `edges[i] = [u, v]` represents an undirected edge between vertex `u` and vertex `v`.
 

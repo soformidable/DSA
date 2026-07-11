@@ -74,6 +74,7 @@ private static void dfs(int node, List<List<Integer>> adj,
     visited[node] = true;            // Mark current node as visited
     component.add(node);             // Add to current component
     
+    // adj.get(index) returns an arraylist which can be iterated by an integer variable
     for (int neighbor : adj.get(node)) {
         if (!visited[neighbor]) {
             dfs(neighbor, adj, visited, component);  // Recurse deeper

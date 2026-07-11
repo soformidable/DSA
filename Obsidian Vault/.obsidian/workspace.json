@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful procedures and theorems/BFS using Queue.md",
+                "file": "Daily/Complete Components Count.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BFS using Queue"
+              "title": "Complete Components Count"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 442.5
+    "width": 342.5
   },
   "right": {
     "id": "176bd6f93bfca2c7",
@@ -182,6 +182,8 @@
   "active": "843a0e4b92a2e3b2",
   "lastOpenFiles": [
     "Useful procedures and theorems/DFS on Undirected Graph (Connected Components).md",
+    "Useful procedures and theorems/Adjacency List in ArrayList.md",
+    "Useful procedures and theorems/BFS using Queue.md",
     "Daily/Complete Components Count.md",
     "Daily/GraphPathExistence.md",
     "Useful procedures and theorems/Converting a list of list of integers to a 2D array.md",
@@ -189,11 +191,9 @@
     "Daily/BoardPathMaxSum.md",
     "Useful procedures and theorems/Converting Arrays to List.md",
     "Useful procedures and theorems/Linked List Basics.md",
-    "Useful procedures and theorems/BFS using Queue.md",
     "Useful procedures and theorems/List of List of Integers.md",
     "Useful procedures and theorems/Integer Overflow.md",
     "Useful procedures and theorems/Converting Set (Hash or Tree) to Array.md",
-    "Useful procedures and theorems/Adjacency List in ArrayList.md",
     "Untitled.base",
     "Arrays/Recursion/Sum of all subsets in an Array.md",
     "Useful procedures and theorems/Sorting a 2D array based on first element of each subarray.md",
