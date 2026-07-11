@@ -19,7 +19,7 @@ import java.util.*;
 
 public class BFS {
 
-    public static void bfs(int start, Map<Integer, List<Integer>> graph) {
+    public static void bfs(int start, Map<Integer>, List<Integer>> graph) {
         Set<Integer> visited = new HashSet<>();
         Queue<Integer> queue = new LinkedList<>();
 
