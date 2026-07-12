@@ -3,6 +3,12 @@
 ## Problem Statement
 Given an array of integers `arr`, replace each element with its **rank**. The rank is an integer starting from `1`. The larger the value, the larger the rank. Two equal elements share the same rank, and the ranks should be as small as possible (i.e., no gaps in ranking).
 
+Problem:
+https://leetcode.com/problems/rank-transform-of-an-array/description/?envType=daily-question&envId=2026-07-12
+
+Code:
+https://github.com/soformidable/DSA/blob/main/Daily/RankTransformArray.java
+
 ### Examples
 ```
 Input:  [37, 12, 28, 9, 100, 56, 80, 5, 12]
