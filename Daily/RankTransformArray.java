@@ -15,13 +15,12 @@ public class RankTransformArray{
         int prev = arr[0];
         map.put(prev, rank);
 
-        for(int i = 1 ; i < arr.length ; i ++){
+        for(int x: arr){
             // if prev == arr[i] is useless because the key:value pair already exists in the hashmap
-            if(prev != arr[i]){
-                rank++;
-                map.put(arr[i],rank);
-            }
-            prev = arr[i];
+            if(prev != x)
+                map.put(x,++rank);
+
+            prev = x;
         }
 
         for(int i = 0 ; i < arr_cp.length ; i ++){
