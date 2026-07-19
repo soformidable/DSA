@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "a3deac54025b3c22",
+        "id": "b695edc4f1824735",
         "type": "tabs",
         "children": [
           {
-            "id": "843a0e4b92a2e3b2",
+            "id": "59f04e0defcd6877",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrays/Medium_SDE/Duplicate value in array of 1 to n integers.md",
+                "file": "LeetCode Patterns/Medium/Find All Duplicates in an Array.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Duplicate value in array of 1 to n integers"
+              "title": "Find All Duplicates in an Array"
+            }
+          },
+          {
+            "id": "48a29e03e640e647",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode Patterns/Leetcode Patterns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leetcode Patterns"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 324.5
   },
   "right": {
     "id": "176bd6f93bfca2c7",
@@ -142,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "LeetCode Patterns/Leetcode Patterns.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Leetcode Patterns"
             }
           },
           {
@@ -179,9 +195,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "505be8d19eaa4809",
+  "active": "83c3cbb0538a97a9",
   "lastOpenFiles": [
-    "Daily/Find All Duplicates in an Array.md",
+    "LeetCode Patterns/Medium/Find All Duplicates in an Array.md",
+    "LeetCode Patterns/Leetcode Patterns.md",
+    "LeetCode Patterns/Hard",
+    "LeetCode Patterns/Easy",
+    "Untitled",
+    "LeetCode Patterns/Medium",
+    "Untitled.base",
+    "LeetCode Patterns",
+    "Arrays/Medium_SDE/Duplicate value in array of 1 to n integers.md",
     "Daily/Complete Components Count.md",
     "Useful procedures and theorems/DFS on Undirected Graph (Connected Components).md",
     "Useful procedures and theorems/Adjacency List in ArrayList.md",
@@ -195,7 +219,6 @@
     "Useful procedures and theorems/List of List of Integers.md",
     "Useful procedures and theorems/Integer Overflow.md",
     "Useful procedures and theorems/Converting Set (Hash or Tree) to Array.md",
-    "Untitled.base",
     "Arrays/Recursion/Sum of all subsets in an Array.md",
     "Useful procedures and theorems/Sorting a 2D array based on first element of each subarray.md",
     "Daily/MaxElementIncDec.md",
@@ -206,8 +229,6 @@
     "Arrays/Recursion/Recursion - Combination Sum.md",
     "Arrays/Recursion/Combination Sum 2.md",
     "Useful procedures and theorems/Transposing a matrix.md",
-    "Useful procedures and theorems/Moore's majority voting theorem.md",
-    "Useful procedures and theorems/Converting a number (Integer) to base K.md",
     "Images/Pasted image 20251115120710.png",
     "Images/Pasted image 20251115121129.png",
     "Arrays/Recursion",
@@ -221,11 +242,6 @@
     "LinkedList/Medium",
     "Images/Pasted image 20250809180405.png",
     "Images/Pasted image 20250809175925.png",
-    "LinkedList/Easy",
-    "LinkedList",
-    "Arrays",
-    "Images",
-    "Useful procedures and theorems",
-    "Arrays/Hard"
+    "LinkedList/Easy"
   ]
 }
