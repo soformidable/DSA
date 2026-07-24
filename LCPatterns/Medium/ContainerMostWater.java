@@ -4,6 +4,7 @@ public class ContainerMostWater{
         int leftBound = 0;
         int rightBound = height.length - 1;
         int maxVolume = 0;
+        int x= Integer.MAX_VALUE;
 
         while(leftBound < rightBound){
             int volume = (rightBound - leftBound) * Math.min(height[leftBound],height[rightBound]);
