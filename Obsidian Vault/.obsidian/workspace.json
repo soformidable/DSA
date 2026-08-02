@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode Patterns/Leetcode Patterns.md",
+                "file": "Arrays/Recursion/Recursion - Combination Sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leetcode Patterns"
+              "title": "Recursion - Combination Sum"
             }
           }
         ],
@@ -56,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -195,9 +197,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83c3cbb0538a97a9",
+  "active": "505be8d19eaa4809",
   "lastOpenFiles": [
+    "LeetCode Patterns/Medium/Unique Permutations.md",
+    "LeetCode Patterns/Medium/Permutations.md",
     "LeetCode Patterns/Medium/Find All Duplicates in an Array.md",
+    "Arrays/Recursion/Recursion - Combination Sum.md",
+    "Useful procedures and theorems/DFS on Undirected Graph (Connected Components).md",
+    "Useful procedures and theorems/Converting a list of list of integers to a 2D array.md",
+    "Useful procedures and theorems/Converting a number (Integer) to base K.md",
+    "Useful procedures and theorems/Checking for Duplicates in an Array.md",
+    "Useful procedures and theorems/BFS using Queue.md",
+    "Arrays/Recursion/Combination Sum 2.md",
     "LeetCode Patterns/Leetcode Patterns.md",
     "LeetCode Patterns/Hard",
     "LeetCode Patterns/Easy",
@@ -207,11 +218,8 @@
     "LeetCode Patterns",
     "Arrays/Medium_SDE/Duplicate value in array of 1 to n integers.md",
     "Daily/Complete Components Count.md",
-    "Useful procedures and theorems/DFS on Undirected Graph (Connected Components).md",
     "Useful procedures and theorems/Adjacency List in ArrayList.md",
-    "Useful procedures and theorems/BFS using Queue.md",
     "Daily/GraphPathExistence.md",
-    "Useful procedures and theorems/Converting a list of list of integers to a 2D array.md",
     "Daily/MinimumScoreRoad.md",
     "Daily/BoardPathMaxSum.md",
     "Useful procedures and theorems/Converting Arrays to List.md",
@@ -223,12 +231,6 @@
     "Useful procedures and theorems/Sorting a 2D array based on first element of each subarray.md",
     "Daily/MaxElementIncDec.md",
     "Daily/Symmetrical Subset of Arrays with powers.md",
-    "Arrays/Recursion/All Numbers Permutation.md",
-    "Arrays/Recursion/Permutation Sequence.md",
-    "Arrays/Recursion/Palindrome Combination.md",
-    "Arrays/Recursion/Recursion - Combination Sum.md",
-    "Arrays/Recursion/Combination Sum 2.md",
-    "Useful procedures and theorems/Transposing a matrix.md",
     "Images/Pasted image 20251115120710.png",
     "Images/Pasted image 20251115121129.png",
     "Arrays/Recursion",
