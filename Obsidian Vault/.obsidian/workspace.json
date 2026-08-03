@@ -11,10 +11,14 @@
             "id": "fc1044adb180e0d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Arrays/Easy/Rolling max sum of subarrays.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Rolling max sum of subarrays"
             }
           }
         ]
@@ -180,6 +184,7 @@
   },
   "active": "fc1044adb180e0d4",
   "lastOpenFiles": [
+    "LeetCode Patterns/Medium/Rolling max sum of subarrays.md",
     "LeetCode Patterns/Medium/Rotating a matrix 90 degrees clockwise.md",
     "Arrays/Medium_SDE/Rotating a matrix 90 degrees clockwise.md",
     "Useful procedures and theorems/Transposing a matrix.md",
@@ -211,7 +216,6 @@
     "Useful procedures and theorems/List of List of Integers.md",
     "Useful procedures and theorems/Integer Overflow.md",
     "Useful procedures and theorems/Converting Set (Hash or Tree) to Array.md",
-    "Arrays/Recursion/Sum of all subsets in an Array.md",
     "Images/Pasted image 20251115120710.png",
     "Images/Pasted image 20251115121129.png",
     "Arrays/Recursion",
