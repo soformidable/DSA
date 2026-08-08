@@ -182,8 +182,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab8ad292bcf55651",
+  "active": "505be8d19eaa4809",
   "lastOpenFiles": [
+    "LeetCode Patterns/Medium/Unique Paths.md",
     "Arrays/Easy/Rolling max sum of subarrays.md",
     "LeetCode Patterns/Medium/Rolling max sum of subarrays.md",
     "LeetCode Patterns/Medium/Rotating a matrix 90 degrees clockwise.md",
@@ -215,7 +216,6 @@
     "Useful procedures and theorems/Converting Arrays to List.md",
     "Useful procedures and theorems/Linked List Basics.md",
     "Useful procedures and theorems/List of List of Integers.md",
-    "Useful procedures and theorems/Integer Overflow.md",
     "Images/Pasted image 20251115120710.png",
     "Images/Pasted image 20251115121129.png",
     "Arrays/Recursion",
