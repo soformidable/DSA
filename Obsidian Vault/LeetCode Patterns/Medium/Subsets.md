@@ -8,6 +8,9 @@ This file summarizes the solution for generating all possible subsets of a given
 ## Problem Description
 Given an integer array `nums`, return **all possible subsets** (the power set). The solution should not contain duplicates, and the subsets should be sorted in ascending order.
 
+## Problem:
+https://leetcode.com/problems/subsets/description/
+
 ---
 
 ## Key Insight
