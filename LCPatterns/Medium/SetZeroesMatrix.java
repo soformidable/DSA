@@ -29,7 +29,7 @@ public class SetZeroesMatrix {
         int arr[][] = new int[][]{{1,1,1},{1,0,1},{1,1,1}};
         setZeroes(arr);
         Arrays.stream(arr).map(Arrays::toString).forEach(System.out::println);
-        /System.out.println(Arrays.deepToString(arr));
+        System.out.println(Arrays.deepToString(arr));
     }
 
 }
