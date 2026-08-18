@@ -89,15 +89,15 @@
     }
 
   public static void main(String args[]){
-    LinkedList ll = new LinkedList();
-    ll.addNode(1);
-    ll.addNode(2);
-    ll.addNode(3);
-    ll.addNode(4);
-    ll.addNode(5);
-    //ll.display();
-    display(ll.head);
-    ListNode head = reverseList(ll.head);
-    display(head);
+    
+        LinkedList ll = new LinkedList();
+        ll.addNode(1);
+        ll.addNode(2);
+        ll.addNode(3);
+        ll.addNode(4);
+        ll.addNode(5);
+        display(ll.head);
+        ListNode head = reverseList(ll.head);
+        display(head);
   }
 }
