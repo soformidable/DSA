@@ -3,6 +3,9 @@
 ## Problem Statement
 Given the `root` of a binary tree, determine if it is a valid binary search tree (BST).
 
+## Problem:
+https://leetcode.com/problems/validate-binary-search-tree/description/
+
 A valid BST is defined as follows:
 - The left subtree of a node contains only nodes with keys **less than** the node's key.
 - The right subtree of a node contains only nodes with keys **greater than** the node's key.
