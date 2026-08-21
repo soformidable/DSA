@@ -56,6 +56,24 @@ class BSTLevelOrderTraversal {
         return result;
     }
 
+    // DRIVER CODE for THE DFS APPROACH
+    /*
+    -----public static List<List<Integer>> levelTraverse(TreeNode root){}
+    */
+
+    public static void DFS(TreeNode node, List<List<Integer>> result, int depth){
+        if(node == null)
+            return;
+
+        if(result.size() == depth){
+            result.add(new ArrayList<>());
+        }
+
+        result.get(depth).add(node.val);
+
+        DFS(node.left, result, depth+1);
+        DFS(node.right, result, depth+1);
+    }
 
 
     public static void main(String[] args) {
