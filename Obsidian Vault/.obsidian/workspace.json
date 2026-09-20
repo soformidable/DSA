@@ -199,6 +199,7 @@
   },
   "active": "400d170857e17876",
   "lastOpenFiles": [
+    "LeetCode Patterns/Medium/MaximumProductSubArray.md",
     "LeetCode Patterns/Medium/LLSortList.md",
     "LeetCode Patterns/Medium/Longest Consecutive Sequence count.md",
     "Arrays/Medium_SDE/Longest Substring length in an Array.md",
@@ -224,7 +225,6 @@
     "LeetCode Patterns/Medium/Permutations.md",
     "Useful procedures and theorems/DFS on Undirected Graph (Connected Components).md",
     "Useful procedures and theorems/Converting a list of list of integers to a 2D array.md",
-    "Useful procedures and theorems/Converting a number (Integer) to base K.md",
     "LeetCode Patterns/Hard",
     "LeetCode Patterns/Easy",
     "Untitled",
