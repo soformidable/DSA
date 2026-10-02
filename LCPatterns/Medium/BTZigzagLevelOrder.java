@@ -78,7 +78,7 @@ public class BTZigzagLevelOrder {
             }
             if(result.size()%2 == 0)
                 result.add(currentLevel);
-            else
+            else    
                 result.add(currentLevel.reversed());
 
         }
